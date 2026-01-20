@@ -1,1 +1,10 @@
 /* Place CSS styles here */
+body {
+    background-color: #B3EBF2;
+    margin-left: 10px; 
+}
+
+img {
+    width: 400px; 
+    border: 7px solid #005477;  
+}
