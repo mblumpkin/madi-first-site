@@ -1,10 +1,30 @@
 /* Place CSS styles here */
 body {
-    background-color: #B3EBF2;
-    margin-left: 10px; 
+    background-color: #B3EBF2; 
+    font-size: 20px; 
+    text-align: center;
+}
+
+a {
+    text-decoration: none; 
+    border: none;
+    color: #005477; 
 }
 
 img {
     width: 400px; 
     border: 7px solid #005477;  
+}
+
+.instagram-icon {
+  width: 70px;  
+  height: auto;
+  border: none; 
+}
+
+.x-icon {
+    width: 50px; 
+    height: auto; 
+    border: none; 
+    transform: translateY(-10px); 
 }
