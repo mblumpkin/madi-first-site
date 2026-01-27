@@ -11,6 +11,10 @@ a {
     color: #005477; 
 }
 
+a:hover{
+    color:#002020; 
+}
+
 img {
     width: 400px; 
     border: 7px solid #005477;  
@@ -27,4 +31,11 @@ img {
     height: auto; 
     border: none; 
     transform: translateY(-10px); 
+}
+
+.location-icon {
+    width: 52px; 
+    height: auto; 
+    border: none; 
+    transform: translateY(-5px); 
 }
