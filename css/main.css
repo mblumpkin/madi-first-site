@@ -12,7 +12,7 @@ a {
 }
 
 a:hover{
-    color:#002020; 
+    color:#2E8B57; 
 }
 
 img {
@@ -38,4 +38,8 @@ img {
     height: auto; 
     border: none; 
     transform: translateY(-5px); 
+}
+
+.container {
+    background-color:#F0F8FF; 
 }
